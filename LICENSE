@@ -1,6 +1,23 @@
+SCOPE OF THIS LICENSE
+
+The MIT License below applies only to original work written by the
+authors of this repository: model variants in models/, notebooks in
+notebooks/, code in scripts/, and the report.
+
+It does NOT apply to:
+  - Files supplied by the OR7310 course staff (quota_steiner.mod,
+    project_helpers.py, start_here.ipynb, tiny.dat, tiny.run,
+    HANDOUT_README.md). These remain the property of their authors.
+  - Instance data in datasets/, derived from the dataset accompanying
+    Pedersen, Weinand, Syranidou and Rehfeldt
+    (https://doi.org/10.5281/zenodo.10600575), which is distributed
+    under its own license. See that record for terms.
+
+-----------------------------------------------------------------------
+
 MIT License
 
-Copyright (c) 2026 Tilak Kumar
+Copyright (c) 2026 Aidan Riordan, Tilak Kumar, Uri Baron
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
