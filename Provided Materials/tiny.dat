@@ -1,0 +1,12 @@
+data;
+set V := 1 2 3 4;
+set F := 1;
+set P := 3 4;
+param r := 1;
+param Q := 8;
+param: E: c :=
+1 2 1
+2 3 1
+2 4 1;
+param w := 3 2 4 3;
+param q := 3 4 4 5;

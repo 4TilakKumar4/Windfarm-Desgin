@@ -1,0 +1,6 @@
+reset;
+model quota_steiner.mod;
+data tiny.dat;
+option solver gurobi;
+solve;
+display Investment, x, z, forward, reverse;
